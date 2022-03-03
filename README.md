@@ -10,7 +10,15 @@ My Own Original music
 
 Added particals when object is selected
 
-Designed my own Sprites 
+Designed my own Sprites for the tiles
+
+Added Coins when Blocks are distroied
+
+Added tweening for tiles when matched
+
+
+
+
 
 ## References
 Wintermesh Font - https://fontesk.com/wintermesh-font/ 
