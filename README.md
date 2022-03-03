@@ -5,8 +5,11 @@ Description
 
 ## Implementation
 Cool Font
-My Own Original music 
+
+My Own Original music
+
 Added particals when object is selected
+
 Designed my own Sprites 
 
 ## References
