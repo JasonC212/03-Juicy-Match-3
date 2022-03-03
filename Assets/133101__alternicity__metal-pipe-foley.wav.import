@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/133101__alternicity__metal-pipe-foley.wav-181bf2907eda609f8be1bf154e5535dc.sample"
+
+[deps]
+
+source_file="res://Assets/133101__alternicity__metal-pipe-foley.wav"
+dest_files=[ "res://.import/133101__alternicity__metal-pipe-foley.wav-181bf2907eda609f8be1bf154e5535dc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
